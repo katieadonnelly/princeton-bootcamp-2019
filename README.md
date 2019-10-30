@@ -5,4 +5,4 @@ adding content
 
 adding content on github
 
-one more thing on github, local edit.
+one more thing on github, local edit resolved.
